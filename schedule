@@ -1,3 +1,5 @@
+//date and time test.
+
 import java.text.SimpleDateFormat;  
 import java.util.Date;  
 public class schedule {  
